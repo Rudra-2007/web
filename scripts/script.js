@@ -1,4 +1,4 @@
-const userID = "209822198502916098"; // Change this to your Discord user id
+const userID = "915930776288247820"; // Change this to your Discord user id
 
 const elements = {
 	statusBox: document.getElementById("status"),
